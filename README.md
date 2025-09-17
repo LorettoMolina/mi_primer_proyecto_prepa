@@ -1,2 +1,2 @@
-# mi_primer_proyecto_prepa
-Un proyecto de ejemplo para aprender Git y GitHub
+MOLINA MONCADA LORETTO DANIEL
+23308060610601 5-D
