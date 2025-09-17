@@ -1,3 +1,3 @@
 MOLINA MONCADA LORETTO DANIEL
 23308060610601 5-D
-![Texto alternativo](foto.jpg)
+![Mi foto](FOTO.JPEG)
