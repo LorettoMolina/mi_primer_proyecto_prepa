@@ -1,5 +1,14 @@
-**Nombre:**MOLINA MONCADA LORETTO DANIEL
-**NUMERODECONTROL:**23308060610601
-**Grupo:**5-D
+# Mi primer proyecto en GitHub
 
+*Nombre:* MOLINA MONCADA LORETTO DANIEL  
+*Grupo:* 5-D  
+*Matrícula:* 23380860610601  
+
+
+
+## Mi foto
 ![Mi foto](FOTO.JPG.jpeg)
+
+
+
+
